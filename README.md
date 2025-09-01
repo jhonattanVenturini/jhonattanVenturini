@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 ADS (Análise e Desenvolvimento de Sistemas)<br><br>💼 Instrutor TI | Front-End Focus<br><br>🧠 22 anos | Apaixonado por tecnologia<br><br>🚀 Especialização atual:<br><br>Angular (Desenvolvimento Web)<br><br>ADVPL (ERP | TOTVS | Protheus)<br><br>📈 Em constante evolução, buscando desafios e aprendizado contínuo</p>
+<p align="left">🎓 ADS (Análise e Desenvolvimento de Sistemas)<br><br>💼 Instrutor TI | Front-End Focus<br><br>🧠 22 anos | Apaixonado por tecnologia<br><br>🚀 Especialização atual:<br><br> Java (Desenvolvimento Backend)<br><br>SpringBoot & MySql <br><br>📈 Em constante evolução, buscando desafios e aprendizado contínuo</p>
 
 ###
 
@@ -37,3 +37,4 @@
 </div>
 
 ###
+
