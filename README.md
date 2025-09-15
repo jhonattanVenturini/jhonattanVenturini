@@ -70,5 +70,5 @@
 
 <p align="left">
   ✉️ Email: <b>jhonattan.venturini@outlook.com</b> <br>
-  💼 LinkedIn: <a href="www.linkedin.com/in/jhonattan-venturini" target="_blank">Clique aqui</a> <br>
 </p>
+
